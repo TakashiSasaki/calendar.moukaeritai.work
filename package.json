@@ -14,7 +14,7 @@
     "generate:favicon": "node generate-favicon.js"
   },
   "devDependencies": {
-    "sharp": "^0.33.4",
-    "to-ico": "^1.1.5"
+    "sharp": "latest",
+    "to-ico": "latest"
   }
 }
