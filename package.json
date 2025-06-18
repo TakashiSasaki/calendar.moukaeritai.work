@@ -5,6 +5,9 @@
     "projects:list": "firebase projects:list",
     "projects:list:json": "firebase projects:list --json > firebase-project-list.json",
     "init": "firebase init",
+    "hosting:sites:list": "firebase hosting:sites:list",
+    "hosting:sites:list:json": "firebase hosting:sites:list --json >firebase-hosting-sites.json",
+    "hosting:sites:sites:create": "firebase hosting:sites:create calendar-moukaeritai-work",
     "deploy:hosting": "firebase deploy --only hosting",
     "emulators": "firebase emulators:start"
   }

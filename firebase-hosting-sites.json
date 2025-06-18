@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "result": {
+    "sites": [
+      {
+        "name": "projects/moukaeritaid/sites/hello-firebaseui-web",
+        "defaultUrl": "https://hello-firebaseui-web.web.app",
+        "appId": "1:1042140630327:web:6a652f1617c68ad56b9eb2",
+        "type": "USER_SITE"
+      },
+      {
+        "name": "projects/moukaeritaid/sites/kiroku",
+        "defaultUrl": "https://kiroku.web.app",
+        "type": "USER_SITE"
+      },
+      {
+        "name": "projects/moukaeritaid/sites/korenani",
+        "defaultUrl": "https://korenani.web.app",
+        "type": "USER_SITE"
+      },
+      {
+        "name": "projects/moukaeritaid/sites/memoma",
+        "defaultUrl": "https://memoma.web.app",
+        "type": "USER_SITE"
+      },
+      {
+        "name": "projects/moukaeritaid/sites/moukaeritaid",
+        "defaultUrl": "https://moukaeritaid.web.app",
+        "type": "DEFAULT_SITE"
+      },
+      {
+        "name": "projects/moukaeritaid/sites/nanikore",
+        "defaultUrl": "https://nanikore.web.app",
+        "type": "USER_SITE"
+      },
+      {
+        "name": "projects/moukaeritaid/sites/qrjump",
+        "defaultUrl": "https://qrjump.web.app",
+        "type": "USER_SITE"
+      },
+      {
+        "name": "projects/moukaeritaid/sites/save-to-gdoc",
+        "defaultUrl": "https://save-to-gdoc.web.app",
+        "appId": "1:1042140630327:web:eb67cc736956d3c36b9eb2",
+        "type": "USER_SITE"
+      }
+    ]
+  }
+}
