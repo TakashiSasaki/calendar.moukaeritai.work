@@ -8,7 +8,8 @@
     "hosting:sites:list": "firebase hosting:sites:list",
     "hosting:sites:list:json": "firebase hosting:sites:list --json >firebase-hosting-sites.json",
     "hosting:sites:sites:create": "firebase hosting:sites:create calendar-moukaeritai-work",
-    "deploy:hosting": "firebase deploy --only hosting",
+    "target:apply:hosting":"firebase target:apply hosting calendar-moukaeritai-work calendar-moukaeritai-work",
+    "deploy:hosting": "firebase deploy --only hosting:calendar-moukaeritai-work",
     "emulators": "firebase emulators:start"
   }
 }

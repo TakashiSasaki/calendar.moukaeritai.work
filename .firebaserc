@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "moukaeritaid"
-  }
+  },
+  "targets": {
+    "moukaeritaid": {
+      "hosting": {
+        "calendar-moukaeritai-work": [
+          "calendar-moukaeritai-work"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
