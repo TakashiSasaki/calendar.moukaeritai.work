@@ -1,6 +1,6 @@
 {
   "name": "calendar.moukaeritai.work",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "projects:list": "firebase projects:list",
     "projects:list:json": "firebase projects:list --json > firebase-project-list.json",
