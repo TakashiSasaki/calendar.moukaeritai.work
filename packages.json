@@ -4,6 +4,7 @@
   "scripts": {
     "projects:list": "firebase projects:list",
     "projects:list:json": "firebase projects:list --json > firebase-project-list.json",
+    "init": "firebase init",
     "deploy:hosting": "firebase deploy --only hosting",
     "emulators": "firebase emulators:start"
   }
