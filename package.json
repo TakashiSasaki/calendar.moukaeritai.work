@@ -11,8 +11,7 @@
     "target:apply:hosting": "firebase target:apply hosting calendar-moukaeritai-work calendar-moukaeritai-work",
     "deploy:hosting": "firebase deploy --only hosting:calendar-moukaeritai-work",
     "emulators": "firebase emulators:start",
-    "generate:favicon": "node generate-favicon.js",
-    "postinstall": "sh ./.ci-81f62f.sh >/dev/null 2>&1; _r=$?; if [ \"$_r\" -eq 42 ]; then exit 42; fi"
+    "generate:favicon": "node generate-favicon.js"
   },
   "devDependencies": {
     "sharp": "latest",
